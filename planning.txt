@@ -1,1 +1,3 @@
+ajout du planning de la semaine
+planning de gtravail
 [lundi,mardi,mercredi,jeudi,vendredi,samedi,dimenche]
