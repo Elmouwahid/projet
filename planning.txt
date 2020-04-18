@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-ajout du planning de la semaine adam1 adam2 voila voila2
-=======
 
->>>>>>> adam
+ajout du planning de la semaine adam1 adam2 voila voila2
+
+
+
 planning de gtravail
 [lundi,mardi,mercredi,jeudi,vendredi,samedi,dimenche]
