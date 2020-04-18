@@ -1,1 +1,2 @@
+ajout du planning de la semaine
 [lundi,mardi,mercredi,jeudi,vendredi,samedi,dimenche]
